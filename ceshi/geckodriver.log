@@ -1,0 +1,1354 @@
+1570365529481	geckodriver	INFO	geckodriver 0.19.0
+1570365529487	geckodriver	INFO	Listening on 127.0.0.1:50994
+1570365530918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.MkJCaqlpAW4y"
+1570365531720	Marionette	INFO	Enabled via --marionette
+1570365533357	Marionette	INFO	Listening on port 51006
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570365533427	Marionette	WARN	TLS certificate errors will be ignored for this session
+2019-10-06 20:38:53.446 plugin-container[48079:3451362] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1570365533492	Marionette	DEBUG	loaded listener.js
+2019-10-06 20:38:53.504 plugin-container[48079:3451364] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570365533508	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570365533688	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570365533689	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570365534104	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570365534297	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1570366353659	geckodriver	INFO	geckodriver 0.19.0
+1570366353667	geckodriver	INFO	Listening on 127.0.0.1:51349
+1570366354799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.32WpShQXYH3d"
+1570366355367	Marionette	INFO	Enabled via --marionette
+2019-10-06 20:52:36.683 plugin-container[48134:3456867] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x832f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-06 20:52:36.718 plugin-container[48134:3456875] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570366356852	Marionette	INFO	Listening on port 51361
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570366356881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570366356919	Marionette	DEBUG	loaded listener.js
+1570366356934	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570366357138	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570366357138	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570366357554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570366357615	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570367742328	geckodriver	INFO	geckodriver 0.19.0
+1570367742333	geckodriver	INFO	Listening on 127.0.0.1:51628
+1570367744546	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.03yOPHO3itn6"
+1570367744955	Marionette	INFO	Enabled via --marionette
+2019-10-06 21:15:46.275 plugin-container[48320:3464184] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x812f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-06 21:15:46.348 plugin-container[48320:3464185] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570367746671	Marionette	INFO	Listening on port 51639
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570367746743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570367746773	Marionette	DEBUG	loaded listener.js
+1570367746791	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570367747172	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570367747172	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570367747555	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570367747634	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570372420067	geckodriver	INFO	geckodriver 0.19.0
+1570372420077	geckodriver	INFO	Listening on 127.0.0.1:54324
+1570372421249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.CM3pbM6gElwi"
+1570372422199	Marionette	INFO	Enabled via --marionette
+2019-10-06 22:33:43.624 plugin-container[48970:3496565] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-06 22:33:43.653 plugin-container[48970:3496567] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570372423791	Marionette	INFO	Listening on port 54338
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570372423854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570372423884	Marionette	DEBUG	loaded listener.js
+1570372423904	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570372424080	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570372424081	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570372424518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570372424610	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570372428975	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570372433278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570372463120	geckodriver	INFO	geckodriver 0.19.0
+1570372463124	geckodriver	INFO	Listening on 127.0.0.1:54468
+1570372464213	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.ROHsKEyvhk8R"
+1570372464865	Marionette	INFO	Enabled via --marionette
+2019-10-06 22:34:26.008 plugin-container[48982:3497082] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x752f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-06 22:34:26.051 plugin-container[48982:3497084] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570372466203	Marionette	INFO	Listening on port 54479
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570372466242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570372466275	Marionette	DEBUG	loaded listener.js
+1570372466290	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570372468206	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570372468207	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570372469483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570372469563	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570372478010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+2019-10-06 22:43:24.839 plugin-container[48990:3499771] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-06 22:43:24.869 plugin-container[48990:3499787] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2019-10-06 22:43:35.204 plugin-container[48992:3499879] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-06 22:43:35.232 plugin-container[48992:3499883] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570629052872	geckodriver	INFO	geckodriver 0.19.0
+1570629052885	geckodriver	INFO	Listening on 127.0.0.1:55752
+1570629054016	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.gm5mG2luWZnf"
+1570629054659	Marionette	INFO	Enabled via --marionette
+2019-10-09 21:50:56.651 plugin-container[3054:153699] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x782f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 21:50:56.685 plugin-container[3054:153711] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570629057137	Marionette	INFO	Listening on port 55764
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570629057208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570629057238	Marionette	DEBUG	loaded listener.js
+1570629057260	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570629057363	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570629057364	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570629057734	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570629057806	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570629059878	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1570629059959	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1570629059961	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1570629061609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.baidu.com/"
+1570629062376	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.baidu.com/"
+1570629216302	geckodriver	INFO	geckodriver 0.19.0
+1570629216306	geckodriver	INFO	Listening on 127.0.0.1:55922
+1570629217381	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.5zEoQWmjXgyV"
+1570629217900	Marionette	INFO	Enabled via --marionette
+2019-10-09 21:53:39.024 plugin-container[3067:154673] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 21:53:39.062 plugin-container[3067:154674] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570629219158	Marionette	INFO	Listening on port 55934
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570629219269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570629219298	Marionette	DEBUG	loaded listener.js
+1570629219314	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570629219418	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570629219418	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570629219813	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570629219871	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570629244702	geckodriver	INFO	geckodriver 0.19.0
+1570629244706	geckodriver	INFO	Listening on 127.0.0.1:56010
+1570629245803	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.y9rTzlmbJKHS"
+1570629246504	Marionette	INFO	Enabled via --marionette
+2019-10-09 21:54:07.703 plugin-container[3080:155070] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 21:54:07.736 plugin-container[3080:155072] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570629247837	Marionette	INFO	Listening on port 56021
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570629247916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570629247946	Marionette	DEBUG	loaded listener.js
+1570629247960	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570629248062	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570629248063	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570629248811	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570629248894	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570629250964	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1570629251049	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1570629251054	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1570629252742	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.baidu.com/"
+1570629253586	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.baidu.com/"
+1570629358690	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1570629358694	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1570630786579	geckodriver	INFO	geckodriver 0.19.0
+1570630786583	geckodriver	INFO	Listening on 127.0.0.1:56684
+1570630787680	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.dLsM86iTHzTQ"
+1570630788346	Marionette	INFO	Enabled via --marionette
+2019-10-09 22:19:49.942 plugin-container[3148:161167] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 22:19:49.976 plugin-container[3148:161168] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570630790238	Marionette	INFO	Listening on port 56697
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570630790312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570630790341	Marionette	DEBUG	loaded listener.js
+1570630790356	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570630790905	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570630790905	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570630792537	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570630792546	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570630792551	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570630792594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570630792596	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570630792597	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570630792598	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570630792603	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570630792605	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570630793170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570630792539.7417&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570630793745	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570630792539.7417&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570630794456	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.163.com/preload6.htm?t=1570630793456"
+1570630794676	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.163.com/preload6.htm?t=1570630793456"
+1570630795667	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570630797954	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570631067729	geckodriver	INFO	geckodriver 0.19.0
+1570631067734	geckodriver	INFO	Listening on 127.0.0.1:56872
+1570631068877	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.Eg8YSiatdZf0"
+1570631069559	Marionette	INFO	Enabled via --marionette
+2019-10-09 22:24:30.890 plugin-container[3159:162527] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 22:24:30.928 plugin-container[3159:162540] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570631071211	Marionette	INFO	Listening on port 56883
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570631071328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570631071369	Marionette	DEBUG	loaded listener.js
+1570631071387	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570631071960	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570631071960	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570631073906	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631074558	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631074601	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631074603	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631074603	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631074605	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631075090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631075101	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631075106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631075938	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631075092.0422&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631076284	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631075092.0422&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631076383	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631078753	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570631272458	geckodriver	INFO	geckodriver 0.19.0
+1570631272462	geckodriver	INFO	Listening on 127.0.0.1:57006
+1570631273535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.se1hRmWZOjRi"
+1570631274057	Marionette	INFO	Enabled via --marionette
+2019-10-09 22:27:55.681 plugin-container[3172:163430] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 22:27:55.729 plugin-container[3172:163443] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570631275850	Marionette	INFO	Listening on port 57018
+1570631276373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570631276424	Marionette	DEBUG	loaded listener.js
+1570631276446	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570631277909	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570631277910	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570631279341	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631279398	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631279402	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631279402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631279404	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631279404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631279406	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631279412	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631279414	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631279613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631279343.1404&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631279870	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631279343.1404&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631280217	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631282587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570631305517	geckodriver	INFO	geckodriver 0.19.0
+1570631305521	geckodriver	INFO	Listening on 127.0.0.1:57119
+1570631306609	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.LAh3z5KGBHQo"
+1570631307455	Marionette	INFO	Enabled via --marionette
+2019-10-09 22:28:28.720 plugin-container[3183:163870] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 22:28:28.752 plugin-container[3183:163871] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570631309103	Marionette	INFO	Listening on port 57130
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570631309157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570631309198	Marionette	DEBUG	loaded listener.js
+1570631309233	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570631310916	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570631310916	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570631312414	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631312421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631312425	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631312427	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631312428	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631312429	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631312430	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631312436	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631312437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631312662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631312415.3472&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631312950	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631312415.3472&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631313245	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631315556	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570631491225	geckodriver	INFO	geckodriver 0.19.0
+1570631491229	geckodriver	INFO	Listening on 127.0.0.1:57265
+1570631492333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.5I6XVazqrTu9"
+1570631493234	Marionette	INFO	Enabled via --marionette
+2019-10-09 22:31:34.935 plugin-container[3212:164940] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x842b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 22:31:34.967 plugin-container[3212:164942] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570631495295	Marionette	INFO	Listening on port 57276
+1570631495323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570631495370	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570631495390	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570631496162	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570631496162	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570631497872	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631497880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631497885	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631497885	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631497887	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631497888	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631497890	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631497898	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631497900	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631498179	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631497873.4282&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631498446	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631497873.4282&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631498448	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631500754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570631689170	geckodriver	INFO	geckodriver 0.19.0
+1570631689174	geckodriver	INFO	Listening on 127.0.0.1:57467
+1570631690247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.HBGKELCsS5bg"
+1570631690772	Marionette	INFO	Enabled via --marionette
+1570631692029	Marionette	INFO	Listening on port 57478
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570631692126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570631692163	Marionette	DEBUG	loaded listener.js
+2019-10-09 22:34:52.188 plugin-container[3224:166166] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x702f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1570631692210	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2019-10-09 22:34:52.217 plugin-container[3224:166168] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570631693132	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570631693133	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570631694172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631694175	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631694176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631694177	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631694177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631694179	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631694675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631694680	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631694681	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631694880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631694669.315&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631695244	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631694669.315&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631695904	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631698205	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570631729997	geckodriver	INFO	geckodriver 0.19.0
+1570631730002	geckodriver	INFO	Listening on 127.0.0.1:57572
+1570631731077	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.ulVqN8sPfNLA"
+1570631731600	Marionette	INFO	Enabled via --marionette
+2019-10-09 22:35:32.759 plugin-container[3236:166501] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 22:35:32.791 plugin-container[3236:166514] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570631732895	Marionette	INFO	Listening on port 57583
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570631732958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570631732990	Marionette	DEBUG	loaded listener.js
+1570631733007	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570631733286	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570631733286	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570631734600	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631734614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631734621	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631734664	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631734666	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631734667	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631734668	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631734675	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631734676	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631734859	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631734606.5417&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631735122	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631734606.5417&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631735291	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631737574	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570631941552	geckodriver	INFO	geckodriver 0.19.0
+1570631941558	geckodriver	INFO	Listening on 127.0.0.1:57744
+1570631942742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.DGzNYWLMC1BR"
+1570631943595	Marionette	INFO	Enabled via --marionette
+2019-10-09 22:39:05.082 plugin-container[3254:167788] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 22:39:05.134 plugin-container[3254:167790] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570631945686	Marionette	INFO	Listening on port 57756
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570631945805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570631945861	Marionette	DEBUG	loaded listener.js
+1570631945890	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570631948015	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570631948015	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570631949371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631949381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631949386	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631949437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631949438	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631949439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631949440	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631949457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570631949459	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631949740	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631949372.9893&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631950039	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570631949372.9893&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570631950223	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570631952525	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570632001771	geckodriver	INFO	geckodriver 0.19.0
+1570632001776	geckodriver	INFO	Listening on 127.0.0.1:57879
+1570632002868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.KhYHtrTJjQzz"
+1570632003691	Marionette	INFO	Enabled via --marionette
+2019-10-09 22:40:05.508 plugin-container[3264:168351] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x752f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 22:40:05.544 plugin-container[3264:168365] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570632005911	Marionette	INFO	Listening on port 57890
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570632005938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570632005977	Marionette	DEBUG	loaded listener.js
+1570632005995	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570632007277	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570632007278	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570632008979	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632009048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632009052	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632009052	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632009055	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632009055	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632009057	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632009063	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632009065	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632009296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570632008980.2864&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570632009579	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570632008980.2864&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570632010109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.163.com/preload6.htm?t=1570632009910"
+1570632010110	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.163.com/preload6.htm?t=1570632009910"
+1570632010112	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632012533	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570632371070	geckodriver	INFO	geckodriver 0.19.0
+1570632371074	geckodriver	INFO	Listening on 127.0.0.1:58144
+1570632372196	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.C1PMvJ50fnlE"
+1570632373068	Marionette	INFO	Enabled via --marionette
+2019-10-09 22:46:14.674 plugin-container[3292:170209] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x812f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 22:46:14.734 plugin-container[3292:170210] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570632375151	Marionette	INFO	Listening on port 58155
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570632375177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570632375220	Marionette	DEBUG	loaded listener.js
+1570632375237	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570632375476	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570632375476	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570632375909	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://qzone.qq.com/"
+1570632377712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?proxy_url=https%3A//qzs.qq.com/qzone/v6/portal/proxy.html&daid=5&&hide_title_bar=1&low_login=0&qlogin_auto_login=1&no_verifyimg=1&link_target=blank&appid=549000912&style=22&target=self&s_url=https%3A%2F%2Fqzs.qq.com%2Fqzone%2Fv5%2Floginsucc.html%3Fpara%3Dizone&pt_qr_app=%E6%89%8B%E6%9C%BAQQ%E7%A9%BA%E9%97%B4&pt_qr_link=https%3A//z.qzone.com/download.html&self_regurl=https%3A//qzs.qq.com/qzone/v6/reg/index.html&pt_qr_help_link=https%3A//z.qzone.com/download.html&pt_no_auth=0"
+1570632379295	Marionette	DEBUG	Received DOM event "pageshow" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?proxy_url=https%3A//qzs.qq.com/qzone/v6/portal/proxy.html&daid=5&&hide_title_bar=1&low_login=0&qlogin_auto_login=1&no_verifyimg=1&link_target=blank&appid=549000912&style=22&target=self&s_url=https%3A%2F%2Fqzs.qq.com%2Fqzone%2Fv5%2Floginsucc.html%3Fpara%3Dizone&pt_qr_app=%E6%89%8B%E6%9C%BAQQ%E7%A9%BA%E9%97%B4&pt_qr_link=https%3A//z.qzone.com/download.html&self_regurl=https%3A//qzs.qq.com/qzone/v6/reg/index.html&pt_qr_help_link=https%3A//z.qzone.com/download.html&pt_no_auth=0"
+1570632379303	Marionette	DEBUG	Received DOM event "pageshow" for "https://qzone.qq.com/"
+1570632381622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570632619946	geckodriver	INFO	geckodriver 0.19.0
+1570632619950	geckodriver	INFO	Listening on 127.0.0.1:58336
+1570632621156	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.uLBUmR3cpHoq"
+1570632621946	Marionette	INFO	Enabled via --marionette
+2019-10-09 22:50:24.342 plugin-container[3319:171509] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x872f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1570632624346	Marionette	INFO	Listening on port 58347
+2019-10-09 22:50:24.382 plugin-container[3319:171511] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570632624415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570632624472	Marionette	DEBUG	loaded listener.js
+1570632624489	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570632625135	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570632625136	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570632626025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632626029	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632626030	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632626031	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632626033	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632626035	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632626570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632626587	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632626587	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632626782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570632626574.6138&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570632627110	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570632626574.6138&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570632628271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.163.com/preload6.htm?t=1570632628099"
+1570632628273	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.163.com/preload6.htm?t=1570632628099"
+1570632629197	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632693147	geckodriver	INFO	geckodriver 0.19.0
+1570632693152	geckodriver	INFO	Listening on 127.0.0.1:58497
+1570632694263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.rJPDfRyTJtNv"
+1570632695346	Marionette	INFO	Enabled via --marionette
+1570632697411	Marionette	INFO	Listening on port 58509
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570632697478	Marionette	WARN	TLS certificate errors will be ignored for this session
+2019-10-09 22:51:37.489 plugin-container[3330:172230] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x822f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1570632697541	Marionette	DEBUG	loaded listener.js
+2019-10-09 22:51:37.552 plugin-container[3330:172231] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570632697558	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570632698130	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570632698131	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570632699500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632699566	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632699574	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632699574	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632699577	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632699577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632699579	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632699587	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632699589	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632699814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570632699503.8447&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570632700127	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570632699503.8447&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570632700318	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632755567	geckodriver	INFO	geckodriver 0.19.0
+1570632755576	geckodriver	INFO	Listening on 127.0.0.1:58629
+1570632756719	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.QNR3UIjH7gsK"
+1570632757747	Marionette	INFO	Enabled via --marionette
+2019-10-09 22:52:39.355 plugin-container[3340:172870] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x812f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 22:52:39.385 plugin-container[3340:172871] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570632759628	Marionette	INFO	Listening on port 58640
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570632759700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570632759731	Marionette	DEBUG	loaded listener.js
+1570632759749	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570632760138	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570632760140	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570632761902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632761966	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632761973	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632761974	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632761976	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632761977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632761979	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632761987	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570632761990	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632763116	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570632761903.6665&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570632763411	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570632761903.6665&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570632764075	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.163.com/preload6.htm?t=1570632762847"
+1570632764076	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.163.com/preload6.htm?t=1570632762847"
+1570632766050	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570632770341	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570633011484	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 89ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1570633147522	geckodriver	INFO	geckodriver 0.19.0
+1570633147528	geckodriver	INFO	Listening on 127.0.0.1:58886
+1570633148677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.z7z4b4TEJ0HM"
+1570633149604	Marionette	INFO	Enabled via --marionette
+2019-10-09 22:59:11.311 plugin-container[3353:175100] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x752f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 22:59:11.342 plugin-container[3353:175111] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570633151511	Marionette	INFO	Listening on port 58897
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570633151556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570633151588	Marionette	DEBUG	loaded listener.js
+1570633151607	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570633152135	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570633152135	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570633153545	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633153553	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633153559	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633153561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633153564	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633153624	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633153626	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633153633	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633153635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633153859	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570633153546.9124&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570633154154	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570633153546.9124&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570633154406	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633158733	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570633225999	geckodriver	INFO	geckodriver 0.19.0
+1570633226016	geckodriver	INFO	Listening on 127.0.0.1:59021
+1570633226211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.DLesfdMBXKsY"
+1570633227514	Marionette	INFO	Enabled via --marionette
+2019-10-09 23:00:29.067 plugin-container[3366:175792] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 23:00:29.097 plugin-container[3366:175794] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570633229542	Marionette	INFO	Listening on port 59030
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570633229622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570633229657	Marionette	DEBUG	loaded listener.js
+1570633229702	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570633230149	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570633230150	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570633231614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633231812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633231836	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633231837	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633231840	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633231840	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633231844	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633231877	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633231878	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633232136	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570633231629.8247&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570633232555	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570633231629.8247&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570633232558	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1570633234555	geckodriver	INFO	geckodriver 0.19.0
+1570633234560	geckodriver	INFO	Listening on 127.0.0.1:59141
+1570633235652	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.lmyRx0p1BW3r"
+1570633236248	Marionette	INFO	Enabled via --marionette
+2019-10-09 23:00:38.443 plugin-container[3375:176115] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 23:00:38.474 plugin-container[3375:176117] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570633239091	Marionette	INFO	Listening on port 59148
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570633239187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570633239219	Marionette	DEBUG	loaded listener.js
+1570633239243	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570633240126	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570633240126	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570633241461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633241535	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633241540	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633241542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633241545	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633241546	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633241549	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633241556	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633241570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633241777	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570633241464.9214&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570633242069	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570633241464.9214&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570633242296	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633246673	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570633358811	geckodriver	INFO	geckodriver 0.19.0
+1570633358815	geckodriver	INFO	Listening on 127.0.0.1:59292
+1570633359997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.nqlgFy5iLFE0"
+1570633360741	Marionette	INFO	Enabled via --marionette
+2019-10-09 23:02:42.627 plugin-container[3400:177730] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 23:02:42.700 plugin-container[3400:177732] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570633363069	Marionette	INFO	Listening on port 59304
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570633363178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570633363249	Marionette	DEBUG	loaded listener.js
+1570633363288	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570633363899	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570633363900	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570633365415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633365496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633365501	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633365501	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633365503	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633365504	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633365505	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633365512	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633365524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633365862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570633365416.2146&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570633366170	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570633365416.2146&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570633366341	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633370817	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570633421507	geckodriver	INFO	geckodriver 0.19.0
+1570633421511	geckodriver	INFO	Listening on 127.0.0.1:59425
+1570633422642	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.dzfOZgsBxHkT"
+1570633423566	Marionette	INFO	Enabled via --marionette
+2019-10-09 23:03:45.450 plugin-container[3409:178291] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x822f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 23:03:45.490 plugin-container[3409:178293] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570633425930	Marionette	INFO	Listening on port 59436
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570633426004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570633426040	Marionette	DEBUG	loaded listener.js
+1570633426060	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570633426900	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570633426900	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570633428350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633428429	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633428434	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633428434	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633428436	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633428437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633428438	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633428444	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633428446	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633428652	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570633428351.0613&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570633428988	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570633428351.0613&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570633430253	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.163.com/preload6.htm?t=1570633429288"
+1570633430254	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.163.com/preload6.htm?t=1570633429288"
+1570633430256	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633434543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570633513839	geckodriver	INFO	geckodriver 0.19.0
+1570633513843	geckodriver	INFO	Listening on 127.0.0.1:59583
+1570633515043	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.yRAnW4CR4fbO"
+1570633516089	Marionette	INFO	Enabled via --marionette
+2019-10-09 23:05:17.760 plugin-container[3421:179192] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-09 23:05:17.793 plugin-container[3421:179204] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570633518162	Marionette	INFO	Listening on port 59596
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570633518176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570633518221	Marionette	DEBUG	loaded listener.js
+1570633518240	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570633519542	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570633519543	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570633521031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633521100	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633521107	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633521108	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633521110	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633521111	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633521113	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633521149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570633521151	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633521408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570633521033.4375&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570633521803	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570633521033.4375&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570633522150	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.163.com/preload6.htm?t=1570633521955"
+1570633522151	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.163.com/preload6.htm?t=1570633521955"
+1570633524341	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570633528629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+1570633651871	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1570633651875	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1570633655899	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1570633655902	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1570682972454	geckodriver	INFO	geckodriver 0.19.0
+1570682972464	geckodriver	INFO	Listening on 127.0.0.1:63799
+1570682973582	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.ZW7gO3tZ6QQk"
+1570682974461	Marionette	INFO	Enabled via --marionette
+2019-10-10 12:49:36.107 plugin-container[3979:233817] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x882f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-10 12:49:36.137 plugin-container[3979:233829] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570682976441	Marionette	INFO	Listening on port 63810
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570682976479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570682976511	Marionette	DEBUG	loaded listener.js
+1570682976527	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570682976800	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570682976801	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570682978051	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570682978053	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570682978054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570682978055	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570682978057	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570682978061	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570682978568	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570682978582	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570682978593	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570682979109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570682978570.149&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570682979527	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570682978570.149&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570682979611	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570682983892	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570683377963	geckodriver	INFO	geckodriver 0.19.0
+1570683377967	geckodriver	INFO	Listening on 127.0.0.1:63967
+1570683379066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.GUnpPZIptEiK"
+1570683379705	Marionette	INFO	Enabled via --marionette
+2019-10-10 12:56:21.265 plugin-container[4009:235781] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x852f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-10 12:56:21.317 plugin-container[4009:235782] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570683381463	Marionette	INFO	Listening on port 63974
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570683381519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570683381559	Marionette	DEBUG	loaded listener.js
+1570683381578	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570683381844	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570683381844	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570683382316	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570683382959	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570683383000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570683383002	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570683383002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570683383004	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570683383494	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570683383515	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570683383518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570683383834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570683383498.7217&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570683384332	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570683383498.7217&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570683384334	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570683388620	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570683390983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570684521171	geckodriver	INFO	geckodriver 0.19.0
+1570684521175	geckodriver	INFO	Listening on 127.0.0.1:64260
+1570684522271	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.PfLKw1sjuJgL"
+1570684523013	Marionette	INFO	Enabled via --marionette
+2019-10-10 13:15:24.395 plugin-container[4047:240971] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-10 13:15:24.428 plugin-container[4047:240973] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570684524623	Marionette	INFO	Listening on port 64267
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570684524712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570684524741	Marionette	DEBUG	loaded listener.js
+1570684524756	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570684525528	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570684525529	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570684527240	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570684527306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570684527310	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570684527311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570684527313	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570684527314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570684527316	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570684527321	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570684527323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570684527873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570684527241.5562&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570684528472	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570684527241.5562&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570684528616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.163.com/preload6.htm?t=1570684528167"
+1570684528618	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.163.com/preload6.htm?t=1570684528167"
+1570684528621	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570684532906	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570684535248	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570684796684	geckodriver	INFO	geckodriver 0.19.0
+1570684796689	geckodriver	INFO	Listening on 127.0.0.1:64423
+1570684797759	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.NMS6zQI1UHiV"
+1570684798503	Marionette	INFO	Enabled via --marionette
+2019-10-10 13:19:59.984 plugin-container[4072:242207] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x762f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-10 13:20:00.020 plugin-container[4072:242222] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570684800370	Marionette	INFO	Listening on port 64430
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570684800441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570684800480	Marionette	DEBUG	loaded listener.js
+1570684800499	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570684800748	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570684800749	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570684803282	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570684803334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570684803339	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570684803340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570684803342	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570684803342	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570684803344	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570684803350	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570684803351	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570684803841	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570684803328.502&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570684804251	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570684803328.502&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570684804583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.163.com/preload6.htm?t=1570684804252"
+1570684804586	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.163.com/preload6.htm?t=1570684804252"
+1570684804588	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570684808867	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570684811208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570684814286	Marionette	DEBUG	loaded listener.js
+1570685355101	geckodriver	INFO	geckodriver 0.19.0
+1570685355105	geckodriver	INFO	Listening on 127.0.0.1:64663
+1570685356250	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.w2Xly7CvtJDX"
+1570685357097	Marionette	INFO	Enabled via --marionette
+2019-10-10 13:29:18.475 plugin-container[4098:244774] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x792f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-10 13:29:18.510 plugin-container[4098:244775] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570685358761	Marionette	INFO	Listening on port 64670
+1570685358799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570685358837	Marionette	DEBUG	loaded listener.js
+1570685358857	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570685359160	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570685359161	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570685361739	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570685361771	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570685361776	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570685361776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570685361781	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570685361789	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570685361791	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570685361810	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570685361811	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570685362186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570685361747.4846&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570685362819	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570685361747.4846&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570685362825	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570685367508	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570685369938	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570685373019	Marionette	DEBUG	loaded listener.js
+1570685453821	geckodriver	INFO	geckodriver 0.19.0
+1570685453830	geckodriver	INFO	Listening on 127.0.0.1:64821
+1570685454985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.ngH4dWSoBFvI"
+1570685456950	Marionette	INFO	Enabled via --marionette
+2019-10-10 13:30:59.216 plugin-container[4125:245818] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-10 13:30:59.251 plugin-container[4125:245831] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570685459399	Marionette	INFO	Listening on port 64828
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570685459437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570685459477	Marionette	DEBUG	loaded listener.js
+1570685459495	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570685459814	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570685459814	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570685461360	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570685461410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570685461414	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570685461419	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570685461421	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570685461421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570685461423	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570685461428	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570685461429	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570685461692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570685461361.5059&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570685462092	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570685461361.5059&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570685462097	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570685466380	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570685468729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570685471793	Marionette	DEBUG	loaded listener.js
+1570770711554	geckodriver	INFO	geckodriver 0.19.0
+1570770711560	geckodriver	INFO	Listening on 127.0.0.1:57881
+1570770712890	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.HZQiAD0NlCBM"
+1570770713879	Marionette	INFO	Enabled via --marionette
+2019-10-11 13:11:55.557 plugin-container[7804:447085] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x832f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:11:55.586 plugin-container[7804:447086] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570770715752	Marionette	INFO	Listening on port 57889
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570770715856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570770715888	Marionette	DEBUG	loaded listener.js
+1570770715903	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570770716149	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570770716149	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570770716899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570770717007	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570770805257	geckodriver	INFO	geckodriver 0.19.0
+1570770805268	geckodriver	INFO	Listening on 127.0.0.1:57991
+1570770806353	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.jO0hVqVrM27O"
+1570770807012	Marionette	INFO	Enabled via --marionette
+2019-10-11 13:13:28.217 plugin-container[7827:447986] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:13:28.245 plugin-container[7827:447987] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570770808425	Marionette	INFO	Listening on port 57998
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570770808474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570770808507	Marionette	DEBUG	loaded listener.js
+1570770808523	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570770808703	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570770808704	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570770809141	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570770809241	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570770872477	geckodriver	INFO	geckodriver 0.19.0
+1570770872481	geckodriver	INFO	Listening on 127.0.0.1:58081
+1570770873581	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.6hl1PP15Xwih"
+1570770874212	Marionette	INFO	Enabled via --marionette
+2019-10-11 13:14:35.519 plugin-container[7837:448745] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:14:35.555 plugin-container[7837:448759] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570770875691	Marionette	INFO	Listening on port 58088
+1570770875704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570770875747	Marionette	DEBUG	loaded listener.js
+1570770875763	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570770875980	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570770875980	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570770876413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570770876486	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771055294	geckodriver	INFO	geckodriver 0.19.0
+1570771055298	geckodriver	INFO	Listening on 127.0.0.1:58173
+1570771056383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.o60YzedI0Voz"
+1570771057000	Marionette	INFO	Enabled via --marionette
+1570771058736	Marionette	INFO	Listening on port 58180
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570771058767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570771058842	Marionette	DEBUG	loaded listener.js
+1570771058877	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2019-10-11 13:17:38.904 plugin-container[7848:449841] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:17:38.944 plugin-container[7848:449843] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570771059137	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570771059138	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570771059637	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771059764	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771110340	geckodriver	INFO	geckodriver 0.19.0
+1570771110345	geckodriver	INFO	Listening on 127.0.0.1:58259
+1570771111417	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.rsfAxiOLr8T3"
+1570771111990	Marionette	INFO	Enabled via --marionette
+2019-10-11 13:18:33.360 plugin-container[7857:450351] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:18:33.401 plugin-container[7857:450352] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570771113505	Marionette	INFO	Listening on port 58266
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570771113541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570771113571	Marionette	DEBUG	loaded listener.js
+1570771113591	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570771113872	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570771113872	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570771114598	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771114846	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771121091	geckodriver	INFO	geckodriver 0.19.0
+1570771121096	geckodriver	INFO	Listening on 127.0.0.1:58336
+1570771122175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.YBDiqak1Ko33"
+1570771122709	Marionette	INFO	Enabled via --marionette
+2019-10-11 13:18:43.902 plugin-container[7868:450610] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x862f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:18:43.938 plugin-container[7868:450612] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570771124026	Marionette	INFO	Listening on port 58345
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570771124055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570771124088	Marionette	DEBUG	loaded listener.js
+1570771124106	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570771124357	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570771124357	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570771124866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771124968	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771137787	geckodriver	INFO	geckodriver 0.19.0
+1570771137791	geckodriver	INFO	Listening on 127.0.0.1:58418
+1570771138873	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.gw7D6df0po3t"
+1570771139466	Marionette	INFO	Enabled via --marionette
+2019-10-11 13:19:00.776 plugin-container[7878:450954] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x812f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:19:00.810 plugin-container[7878:450955] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570771141004	Marionette	INFO	Listening on port 58425
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570771141085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570771141119	Marionette	DEBUG	loaded listener.js
+1570771141156	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570771141510	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570771141510	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570771142019	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771142136	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771220023	geckodriver	INFO	geckodriver 0.19.0
+1570771220028	geckodriver	INFO	Listening on 127.0.0.1:58514
+1570771221113	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.JtJs8aLPoFEn"
+1570771221747	Marionette	INFO	Enabled via --marionette
+2019-10-11 13:20:23.070 plugin-container[7886:451939] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x822f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:20:23.112 plugin-container[7886:451953] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570771223421	Marionette	INFO	Listening on port 58521
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570771223461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570771223496	Marionette	DEBUG	loaded listener.js
+1570771223513	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570771223717	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570771223718	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570771224142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771224622	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771309299	geckodriver	INFO	geckodriver 0.19.0
+1570771309304	geckodriver	INFO	Listening on 127.0.0.1:58630
+1570771310403	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.gJ37OYWsbeXf"
+1570771311037	Marionette	INFO	Enabled via --marionette
+2019-10-11 13:21:52.767 plugin-container[7904:452789] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:21:52.817 plugin-container[7904:452791] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570771313020	Marionette	INFO	Listening on port 58637
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570771313072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570771313116	Marionette	DEBUG	loaded listener.js
+1570771313140	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570771313348	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570771313348	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570771313959	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771314095	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771365708	geckodriver	INFO	geckodriver 0.19.0
+1570771365714	geckodriver	INFO	Listening on 127.0.0.1:58722
+1570771366801	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.RjtdEiTzI2H9"
+1570771367485	Marionette	INFO	Enabled via --marionette
+2019-10-11 13:22:48.857 plugin-container[7913:453274] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x782f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:22:48.890 plugin-container[7913:453276] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570771369251	Marionette	INFO	Listening on port 58729
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570771369361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570771369392	Marionette	DEBUG	loaded listener.js
+1570771369410	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570771369611	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570771369612	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570771370039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771370554	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771370665	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1570771370702	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1570771370705	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1570771370896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771370954	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771385164	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570771387417	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570771387649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570771413644	geckodriver	INFO	geckodriver 0.19.0
+1570771413648	geckodriver	INFO	Listening on 127.0.0.1:58823
+1570771414727	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.lcelWIzcDbKm"
+1570771415417	Marionette	INFO	Enabled via --marionette
+2019-10-11 13:23:37.081 plugin-container[7923:453835] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x822f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:23:37.138 plugin-container[7923:453847] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570771417519	Marionette	INFO	Listening on port 58831
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570771417549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570771417594	Marionette	DEBUG	loaded listener.js
+1570771417644	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570771417874	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570771417874	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570771418324	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771418411	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771418590	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1570771418657	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1570771418658	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1570771418889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771418929	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771473843	geckodriver	INFO	geckodriver 0.19.0
+1570771473847	geckodriver	INFO	Listening on 127.0.0.1:58927
+1570771474930	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.wXOD1RwiHYPB"
+1570771475660	Marionette	INFO	Enabled via --marionette
+2019-10-11 13:24:37.203 plugin-container[7932:454462] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x892f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:24:37.237 plugin-container[7932:454499] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570771477681	Marionette	INFO	Listening on port 58935
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570771477718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570771477768	Marionette	DEBUG	loaded listener.js
+1570771477799	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570771478004	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570771478004	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570771478749	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771478838	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771478941	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1570771478989	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1570771478992	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1570771479210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771479256	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+1570771675924	geckodriver	INFO	geckodriver 0.19.0
+1570771675930	geckodriver	INFO	Listening on 127.0.0.1:59045
+1570771677042	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.TmxIUpHpw0T8"
+1570771677742	Marionette	INFO	Enabled via --marionette
+2019-10-11 13:27:59.358 plugin-container[7945:455530] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x772f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 13:27:59.388 plugin-container[7945:455531] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570771679491	Marionette	INFO	Listening on port 59052
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570771679530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570771679562	Marionette	DEBUG	loaded listener.js
+1570771679578	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570771679741	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570771679741	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570771680126	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771680201	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771680299	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1570771680336	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1570771680340	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1570771680490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570771680533	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570771700272	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570771702540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570771702777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 999: TypeError: win is null
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1570804639528	geckodriver	INFO	geckodriver 0.19.0
+1570804639534	geckodriver	INFO	Listening on 127.0.0.1:64625
+1570804640757	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.fzkWlCyXJ8ua"
+1570804641494	Marionette	INFO	Enabled via --marionette
+2019-10-11 22:37:22.739 plugin-container[8735:580392] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 22:37:22.774 plugin-container[8735:580456] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570804643089	Marionette	INFO	Listening on port 64633
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570804643186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570804643218	Marionette	DEBUG	loaded listener.js
+1570804643233	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570804643556	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570804643557	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570804644060	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570804644192	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570804644323	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1570804644373	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1570804644374	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1570804644532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570804644581	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570804694948	geckodriver	INFO	geckodriver 0.19.0
+1570804694952	geckodriver	INFO	Listening on 127.0.0.1:64718
+1570804696026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.gGwHeP9jD6ez"
+1570804696553	Marionette	INFO	Enabled via --marionette
+2019-10-11 22:38:17.721 plugin-container[8748:581023] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x812f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 22:38:17.755 plugin-container[8748:581024] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570804697894	Marionette	INFO	Listening on port 64725
+1570804697925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570804697971	Marionette	DEBUG	loaded listener.js
+1570804697990	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570804698195	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570804698195	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570804698653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570804698740	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570804701815	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1570804701902	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1570804701903	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1570804702084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570804702127	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570804762607	geckodriver	INFO	geckodriver 0.19.0
+1570804762613	geckodriver	INFO	Listening on 127.0.0.1:64806
+1570804763712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.WuXMgj1qR9Ea"
+1570804764548	Marionette	INFO	Enabled via --marionette
+2019-10-11 22:39:25.727 plugin-container[8759:581809] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x792f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 22:39:25.770 plugin-container[8759:581823] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570804766003	Marionette	INFO	Listening on port 64813
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570804766070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570804766100	Marionette	DEBUG	loaded listener.js
+1570804766119	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570804766411	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570804766411	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570804766946	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570804767080	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570804774048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570804776315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570804776551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570804815152	geckodriver	INFO	geckodriver 0.19.0
+1570804815156	geckodriver	INFO	Listening on 127.0.0.1:64906
+1570804816230	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.wKGz8AsuzB5V"
+1570804816753	Marionette	INFO	Enabled via --marionette
+2019-10-11 22:40:17.915 plugin-container[8769:582482] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 22:40:17.948 plugin-container[8769:582484] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570804818045	Marionette	INFO	Listening on port 64913
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570804818130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570804818159	Marionette	DEBUG	loaded listener.js
+1570804818174	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570804818372	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570804818372	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570804819197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570804820583	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570804848982	geckodriver	INFO	geckodriver 0.19.0
+1570804848986	geckodriver	INFO	Listening on 127.0.0.1:64995
+1570804850072	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.JE018qUZRwU8"
+1570804850810	Marionette	INFO	Enabled via --marionette
+2019-10-11 22:40:52.450 plugin-container[8779:583070] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x752f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 22:40:52.522 plugin-container[8779:583072] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570804852699	Marionette	INFO	Listening on port 65002
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570804852751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570804852797	Marionette	DEBUG	loaded listener.js
+1570804852819	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570804853043	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570804853044	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570804853537	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570804854374	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570804923511	geckodriver	INFO	geckodriver 0.19.0
+1570804923516	geckodriver	INFO	Listening on 127.0.0.1:65093
+1570804924700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.mPsDHHlK6Vnp"
+1570804925285	Marionette	INFO	Enabled via --marionette
+2019-10-11 22:42:06.651 plugin-container[8789:583877] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f23, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 22:42:06.701 plugin-container[8789:583878] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570804926978	Marionette	INFO	Listening on port 65100
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570804927034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570804927073	Marionette	DEBUG	loaded listener.js
+1570804927109	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570804927308	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570804927309	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570804927882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570804927990	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570805127031	geckodriver	INFO	geckodriver 0.19.0
+1570805127037	geckodriver	INFO	Listening on 127.0.0.1:65373
+1570805128142	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.AlFqoRL9kNbg"
+1570805128911	Marionette	INFO	Enabled via --marionette
+2019-10-11 22:45:30.406 plugin-container[8809:586238] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x812f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 22:45:30.443 plugin-container[8809:586251] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570805130551	Marionette	INFO	Listening on port 65380
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570805130582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570805130615	Marionette	DEBUG	loaded listener.js
+1570805130633	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570805130727	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570805130727	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570805131079	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570805131159	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570805708609	geckodriver	INFO	geckodriver 0.19.0
+1570805708613	geckodriver	INFO	Listening on 127.0.0.1:49191
+1570805709731	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.ZtHxqaYGm42n"
+1570805710265	Marionette	INFO	Enabled via --marionette
+2019-10-11 22:55:11.864 plugin-container[8827:590170] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x842f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-11 22:55:11.894 plugin-container[8827:590172] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570805712298	Marionette	INFO	Listening on port 49198
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570805712400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570805712433	Marionette	DEBUG	loaded listener.js
+1570805712458	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570805712561	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570805712563	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570805712998	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570805713099	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570805719772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570805722037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570805722274	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570806270012	geckodriver	INFO	geckodriver 0.19.0
+1570806270017	geckodriver	INFO	Listening on 127.0.0.1:49399
+1570806271169	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.V5JDw1fmmu8v"
+1570806272020	Marionette	INFO	Enabled via --marionette
+1570806273800	Marionette	INFO	Listening on port 49407
+2019-10-11 23:04:33.840 plugin-container[8855:592975] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1570806273849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570806273895	Marionette	DEBUG	loaded listener.js
+2019-10-11 23:04:33.907 plugin-container[8855:592991] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570806273912	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570806274002	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570806274003	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570806274416	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570806274483	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1570806281189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570806283450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570806283687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570858383585	geckodriver	INFO	geckodriver 0.19.0
+1570858383596	geckodriver	INFO	Listening on 127.0.0.1:53352
+1570858384859	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.vqzB63UDxHZL"
+1570858385979	Marionette	INFO	Enabled via --marionette
+2019-10-12 13:33:07.349 plugin-container[9559:677882] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-12 13:33:07.379 plugin-container[9559:677896] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570858387508	Marionette	INFO	Listening on port 53359
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570858387544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570858387579	Marionette	DEBUG	loaded listener.js
+1570858387595	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570858387855	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570858387855	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1570858389278	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570858389360	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570858389368	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570858389373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570858389375	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570858389375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570858389379	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570858389400	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.126.com/"
+1570858389406	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570858389697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570858389286.0457&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570858390097	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.126.com/webzj/v1.0.1/pub/index_dl2_new.html?cd=https%3A%2F%2Fmimg.127.net%2Fp%2Ffreemail%2Findex%2Funified%2Fstatic%2F2019%2Fcss%2F&cf=urs.126.589bdb88.css&MGID=1570858389286.0457&wdaId=&pkid=QdQXWEQ&product=mail126"
+1570858390100	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.126.com/"
+1570858390562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1570858391114	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+2019-10-12 14:40:14.882 plugin-container[9648:695237] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x872f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-12 14:40:14.911 plugin-container[9648:695263] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570868712897	geckodriver	INFO	geckodriver 0.19.0
+1570868712902	geckodriver	INFO	Listening on 127.0.0.1:55628
+1570868714119	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.SIGMnAdHLZ9P"
+1570868714843	Marionette	INFO	Enabled via --marionette
+2019-10-12 16:25:16.677 plugin-container[10008:737933] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x792f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-12 16:25:16.711 plugin-container[10008:737935] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1570868716934	Marionette	INFO	Listening on port 55635
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1570868717042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570868717085	Marionette	DEBUG	loaded listener.js
+1570868717111	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1570868717320	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1570868717320	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1570868717827	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1570868717967	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+2019-10-14 09:38:23.456 firefox-bin[8826:895581] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2019-10-14 09:38:23.535 firefox-bin[8826:590078] HIToolbox: received notification of WindowServer event port death.
+2019-10-14 09:38:23.545 firefox-bin[8826:590078] port matched the WindowServer port created in BindCGSToRunLoop
+1571325455569	geckodriver	INFO	geckodriver 0.19.0
+1571325455575	geckodriver	INFO	Listening on 127.0.0.1:59522
+1571325456738	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/0j/yc434fr947x_220wwp5ly1wm0000gn/T/rust_mozprofile.8aR7C3614Byr"
+1571325457664	Marionette	INFO	Enabled via --marionette
+2019-10-17 23:17:40.233 plugin-container[9356:760318] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x882f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-10-17 23:17:40.278 plugin-container[9356:760320] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1571325460290	Marionette	INFO	Listening on port 59529
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1571325460331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571325460367	Marionette	DEBUG	loaded listener.js
+1571325460386	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1571325460621	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1571325460622	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1571325461068	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1571325461158	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
